@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hotel_website/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/hotel_website/static/js/main.64c4fb99.chunk.js",
+    "main.js.map": "/hotel_website/static/js/main.64c4fb99.chunk.js.map",
+    "runtime-main.js": "/hotel_website/static/js/runtime-main.240d7b6f.js",
+    "runtime-main.js.map": "/hotel_website/static/js/runtime-main.240d7b6f.js.map",
+    "static/js/2.423315a7.chunk.js": "/hotel_website/static/js/2.423315a7.chunk.js",
+    "static/js/2.423315a7.chunk.js.map": "/hotel_website/static/js/2.423315a7.chunk.js.map",
+    "static/js/3.94ef5a13.chunk.js": "/hotel_website/static/js/3.94ef5a13.chunk.js",
+    "static/js/3.94ef5a13.chunk.js.map": "/hotel_website/static/js/3.94ef5a13.chunk.js.map",
+    "index.html": "/hotel_website/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/hotel_website/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.423315a7.chunk.js.LICENSE.txt": "/hotel_website/static/js/2.423315a7.chunk.js.LICENSE.txt",
+    "static/media/building.3630eff3.jpg": "/hotel_website/static/media/building.3630eff3.jpg",
+    "static/media/img1.8bac38e0.jpg": "/hotel_website/static/media/img1.8bac38e0.jpg",
+    "static/media/img2.59213bb6.jfif": "/hotel_website/static/media/img2.59213bb6.jfif",
+    "static/media/img3.13d5301d.png": "/hotel_website/static/media/img3.13d5301d.png",
+    "static/media/room.16db202c.png": "/hotel_website/static/media/room.16db202c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.240d7b6f.js",
+    "static/js/2.423315a7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.64c4fb99.chunk.js"
+  ]
+}
