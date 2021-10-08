@@ -5,14 +5,11 @@ import {
   AppBar,
   Toolbar,
   Typography,
-  TextField,
   makeStyles,
 } from "@material-ui/core";
 import FacebookIcon from "@material-ui/icons/Facebook";
 import TwitterIcon from "@material-ui/icons/Twitter";
 import InstagramIcon from "@material-ui/icons/Instagram";
-import ArrowDropUpIcon from "@material-ui/icons/ArrowDropUp";
-import { ScatterPlot } from "@material-ui/icons";
 
 const buttons = ["AboutUs", "Contact", "Terms & conditions"];
 

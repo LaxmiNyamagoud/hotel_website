@@ -1,12 +1,5 @@
 import React from "react";
-import {
-  Grid,
-  Button,
-  AppBar,
-  Toolbar,
-  Typography,
-  Tab,
-} from "@material-ui/core";
+import { Button, AppBar, Toolbar } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import building from "../../Images/building.jpg";
 import logo from "../../Images/logo.png";
@@ -52,7 +45,7 @@ function Header() {
               variant="text"
               className={classes.button}
               component={Link}
-              to="/Home"
+              to="/"
             >
               Home
             </Button>
